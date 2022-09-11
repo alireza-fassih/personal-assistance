@@ -1,0 +1,6 @@
+rootProject.name = 'personal-assistance'
+include 'clockify'
+include 'utils'
+include 'clockify-to-jira'
+
+
